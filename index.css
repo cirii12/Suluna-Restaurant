@@ -1,0 +1,217 @@
+.col-lg-4{
+    position: relative;
+    top: 11px;
+}
+ul{
+    margin:0px;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    width: 430px;
+    line-height: 36px;
+    background-color:#FFB1B1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: center;
+    
+}
+li{
+    float: left;
+      
+}
+a{
+    display:block;
+    padding: 0 28px;
+   
+}
+
+a:hover{
+    background-color: #131415;
+}
+.active a{
+
+    background-color:#131415;
+}
+.sear{
+    float: right;
+    margin-top: 18px;
+}
+.mainfeatures{
+    position: relative;
+    margin-top: 60px;
+    border: 1px solid #FFB1B1;
+    background-color: #FFB1B1;
+    height: 532px;
+    width: 100%;
+    margin-top: 60px;
+
+}
+.contentimg{
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 30px;
+    
+    
+}
+
+.picture{
+    position: absolute;
+    margin-top: 30px;
+    margin-right: 30px;
+    left: 764px;
+}
+
+.restaurantfeatures{
+        position: relative;
+        margin-top: 60px;
+        border: 1px solid #FFB1B1;
+        background-color: #FFB1B1;
+        height: 688px;
+        width: 100%;
+        margin-top: 60px;
+
+}
+
+.CC{
+    position: absolute;
+    font-size: 20px;
+    left: 570px;
+    margin-top: 30px;
+}
+
+.DD{
+    position: absolute;
+    font-size: 30px;
+    left: 90px;
+    top: 280px;
+}
+.AA{
+    position: absolute;
+    margin-right: 30px;
+    left: 505px;
+    margin-top: 30px;
+    top: 100px;
+}
+
+.BB{
+    position: absolute;
+    margin-right: 30px;
+    left: 914px;
+    top: 376px;
+    margin-bottom: 30px;
+}
+
+.cust{
+    position: absolute;
+    bottom: 103px;
+    left: 60px;
+    font-size: 20px;
+}
+
+.contactform{
+    position: relative;
+    border: 1px solid #FFB1B1;
+    background-color: #FFB1B1;
+    height: 330px;
+    width: 100%;
+    margin-top: 60px;
+}
+.con{
+    position: absolute;
+    top: 60px;
+    left:30px;
+}
+
+.EE{
+    position: absolute;
+    left: 805px;
+    top: 65px;
+    font-size: 20px;
+}
+
+.FF{
+    position: absolute;
+    left: 115px;
+}
+.Footer{
+    position: relative;
+    border: 1px solid #FFB1B1;
+    background-color: #FFB1B1;
+    height: 283px;
+    width: 100%;
+    margin-top: 60px;
+}
+
+.BC{
+    position: absolute;
+    top: 45px;
+    left: 306px;
+}
+
+.AB{
+    position: absolute;
+    top: 45px;
+    left: 424px;
+
+}
+
+
+.HH{
+    position: absolute;
+    top: 45px;
+    left: 551px;
+}
+
+.GG{
+    position: absolute;
+    top: 45px;
+    left: 664px;
+}
+
+.AC{
+    position: absolute;
+    top: 45PX;
+    left: 768px;
+}
+
+.CB{
+    position: absolute;
+    top: 45px;
+    left: 908px;
+}
+
+
+.insta{
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
+
+.Phone{
+    position: absolute;
+    top: 100px;
+    left: 530px;
+}
+
+.face{
+    position: absolute;
+    top: 90px;
+    left: 650px;
+    width: 66px;
+}
+
+.twitter{
+    position: absolute;
+    top: 100px;
+    left: 800px;
+}
+
+.SS{
+    position: absolute;
+    top: 200px;
+    left: 565px;
+    font-size: 25px;
+}
+
+
+   
