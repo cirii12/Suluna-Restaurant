@@ -2,12 +2,16 @@
     position: relative;
     top: 11px;
 }
+
+.nav{
+    background-color: #FFB1B1;
+    }
 ul{
     margin:0px;
     padding: 0;
     list-style: none;
     height: 36px;
-    width: 430px;
+    width: 543px;
     line-height: 36px;
     background-color:#FFB1B1;
     font-family: Arial, Helvetica, sans-serif;
@@ -35,6 +39,9 @@ a:hover{
 .sear{
     float: right;
     margin-top: 18px;
+    background-color: #6A3800;
+    width: 106px;
+    height: 50px;
 }
 .mainfeatures{
     position: relative;
@@ -213,5 +220,8 @@ a:hover{
     font-size: 25px;
 }
 
+.OO{
+    margin-left: 128px;
+}
 
    
